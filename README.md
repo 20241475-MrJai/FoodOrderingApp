@@ -1,2 +1,0 @@
-# FoodOrderingApp
-FoodOrderingApp
